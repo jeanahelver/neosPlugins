@@ -11,10 +11,6 @@ To auto install the project as a neos library, run `dotnet publish -p:ToNeos=tru
 ## recordingTool
 records to animation
 
-
-requires visual studio with **.NET desktop development** and neosvr to be installed C:\steam\steamapps\common\NeosVR
-
-
 ## credits:
 * LucasRo7
 * Epsilion
