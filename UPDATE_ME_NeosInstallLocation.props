@@ -1,0 +1,6 @@
+<Project>
+   <PropertyGroup>
+      <!--Update this with the path to the directory where Neos.exe is-->
+      <NeosInstallDir>F:\Steam\steamapps\common\NeosVR</NeosInstallDir>
+   </PropertyGroup>
+</Project>

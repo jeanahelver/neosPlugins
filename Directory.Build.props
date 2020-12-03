@@ -1,0 +1,14 @@
+<Project>
+
+   <Import Project="$(MSBuildThisFileDirectory)\UPDATE_ME_NeosInstallLocation.props" />
+
+   <PropertyGroup>
+      <NeosLibDir>$(NeosInstallDir)\Neos_Data\Managed</NeosLibDir>
+      <NeosExternalLibDir>$(NeosInstallDir)\Libraries</NeosExternalLibDir>
+   </PropertyGroup>
+
+   <PropertyGroup Condition="$(ToNeos) != ''" >
+     <PublishDir>$(NeosExternalLibDir)</PublishDir>
+   </PropertyGroup>
+
+</Project>
