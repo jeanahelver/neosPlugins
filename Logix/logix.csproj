@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Reference Include="BaseX" HintPath="$(NeosLibDir)\BaseX.dll" Private="false" />
-    <Reference Include="CodeX" HintPath="$(NeosLibDir)\CodeX.dll" Private="false" />
     <Reference Include="FrooxEngine" HintPath="$(NeosLibDir)\FrooxEngine.dll" Private="false" />
     <Reference Include="Newtonsoft.Json" HintPath="$(NeosLibDir)\Newtonsoft.Json.dll" Private="false" />
   </ItemGroup>
