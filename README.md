@@ -10,6 +10,8 @@ To auto install the project as a neos library, run `dotnet publish -p:ToNeos=tru
 
 ## recordingTool
 records to animation
+## Logix
+* json path gets a string from json using JPath syntax
 
 ## credits:
 * LucasRo7
